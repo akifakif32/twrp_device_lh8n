@@ -1,4 +1,6 @@
 # Aliases extracted from modules themselves.
+alias of:N*T*Cili7807s,fhdp,dsi,vdo,txd,boe,lh8n ili7807s_fhdp_dsi_vdo_txd_boe_lh8n
+alias of:N*T*Cili7807s,fhdp,dsi,vdo,txd,boe,lh8nC* ili7807s_fhdp_dsi_vdo_txd_boe_lh8n
 alias of:N*T*Cmediatek,mt2701-auxadc mt6577_auxadc
 alias of:N*T*Cmediatek,mt2701-auxadcC* mt6577_auxadc
 alias of:N*T*Cmediatek,mt2712-auxadc mt6577_auxadc
@@ -85,6 +87,7 @@ alias of:N*T*Cmediatek,mt8183-pwrap mtk_pmic_wrap
 alias of:N*T*Cmediatek,mt8183-pwrapC* mtk_pmic_wrap
 alias of:N*T*Cmediatek,mt8516-pwrap mtk_pmic_wrap
 alias of:N*T*Cmediatek,mt8516-pwrapC* mtk_pmic_wrap
+alias i2c:aw22xxx_led leds_aw22xxx
 alias of:N*T*Cmediatek,mt2712-i2c i2c_mt65xx
 alias of:N*T*Cmediatek,mt2712-i2cC* i2c_mt65xx
 alias of:N*T*Cmediatek,mt6577-i2c i2c_mt65xx
@@ -193,8 +196,6 @@ alias of:N*T*Cmediatek,mt6739-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6739-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6885-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6885-disp-pwmC* pwm_mtk_disp
-alias of:N*T*Cnt36672e,fhdp,dsi,vdo,dsc,hx,hx,120Hz,x6711 nt36672e_fhdp_dsi_vdo_dsc_hx_hx_120Hz_x6711
-alias of:N*T*Cnt36672e,fhdp,dsi,vdo,dsc,hx,hx,120Hz,x6711C* nt36672e_fhdp_dsi_vdo_dsc_hx_hx_120Hz_x6711
 alias of:N*T*Cmediatek,mt6357-dynamic_loading_throttling mtk_dynamic_loading_throttling
 alias of:N*T*Cmediatek,mt6357-dynamic_loading_throttlingC* mtk_dynamic_loading_throttling
 alias of:N*T*Cmediatek,mt6358-dynamic_loading_throttling mtk_dynamic_loading_throttling
@@ -253,8 +254,6 @@ alias of:N*T*Cmediatek,mt6359p-gauge mt6359p_battery
 alias of:N*T*Cmediatek,mt6359p-gaugeC* mt6359p_battery
 alias of:N*T*Cmediatek,extcon-usb extcon_mtk_usb
 alias of:N*T*Cmediatek,extcon-usbC* extcon_mtk_usb
-alias of:N*T*Cnt36672n,fhdp,dsi,vdo,dsc,hx,hx,120Hz,x6711 nt36672n_fhdp_dsi_vdo_dsc_hx_hx_120Hz_x6711
-alias of:N*T*Cnt36672n,fhdp,dsi,vdo,dsc,hx,hx,120Hz,x6711C* nt36672n_fhdp_dsi_vdo_dsc_hx_hx_120Hz_x6711
 alias of:N*T*Cmediatek,usb_meta meta
 alias of:N*T*Cmediatek,usb_metaC* meta
 alias of:N*T*Crichtek,rfc_ta rfc_ta
@@ -339,8 +338,6 @@ alias of:N*T*Cmediatek,mt6779-uart-dma mtk_uart_apdma
 alias of:N*T*Cmediatek,mt6779-uart-dmaC* mtk_uart_apdma
 alias of:N*T*Cmediatek,mt6765-cqdma mtk_cqdma
 alias of:N*T*Cmediatek,mt6765-cqdmaC* mtk_cqdma
-alias of:N*T*Cmediatek,charger,pe mtk_pep
-alias of:N*T*Cmediatek,charger,peC* mtk_pep
 alias platform:mt6359p-regulator mt6359p_regulator
 alias of:N*T*Cst,st21nfc st21nfc
 alias of:N*T*Cst,st21nfcC* st21nfc
@@ -750,6 +747,8 @@ alias of:N*T*Cmediatek,devinfo nvmem_mtk_devinfo
 alias of:N*T*Cmediatek,devinfoC* nvmem_mtk_devinfo
 alias of:N*T*Cmediatek,pwm-leds leds_mtk_pwm
 alias of:N*T*Cmediatek,pwm-ledsC* leds_mtk_pwm
+alias of:N*T*Cft8726,fhdp,dsi,vdo,tm,tm,lh8n ft8726_fhdp_dsi_vdo_tm_tm_lh8n
+alias of:N*T*Cft8726,fhdp,dsi,vdo,tm,tm,lh8nC* ft8726_fhdp_dsi_vdo_tm_tm_lh8n
 alias of:N*T*Cmediatek,mt6360_pmu mt6360_core
 alias of:N*T*Cmediatek,mt6360_pmuC* mt6360_core
 alias of:N*T*Cmediatek,charger,tc30 mtk_tran_tc30
@@ -821,8 +820,6 @@ alias of:N*T*Cmediatek,pd_adapterC* mtk_pd_adapter
 alias net-pf-16-proto-16-family-nl80211 cfg80211
 alias of:N*T*Ctran,chg_aging tran_battery_aging
 alias of:N*T*Ctran,chg_agingC* tran_battery_aging
-alias of:N*T*Cmediatek,charger,pe4 mtk_pep40
-alias of:N*T*Cmediatek,charger,pe4C* mtk_pep40
 alias of:N*T*Cmediatek,mt6360_chg mt6360_pmu_chg
 alias of:N*T*Cmediatek,mt6360_chgC* mt6360_pmu_chg
 alias platform:mt6360_pmu_chg mt6360_pmu_chg
@@ -1051,6 +1048,8 @@ alias of:N*T*Ctran_fp tran_fp
 alias of:N*T*Ctran_fpC* tran_fp
 alias of:N*T*Ctran_fp tran_fp
 alias of:N*T*Ctran_fpC* tran_fp
+alias of:N*T*Cfocaltech,fts focaltech_noflash_common
+alias of:N*T*Cfocaltech,ftsC* focaltech_noflash_common
 alias of:N*T*Cmediatek,mt63xx-debug mt63xx_debug
 alias of:N*T*Cmediatek,mt63xx-debugC* mt63xx_debug
 alias of:N*T*Cmediatek,mt6873-mdpm mtk_mdpm

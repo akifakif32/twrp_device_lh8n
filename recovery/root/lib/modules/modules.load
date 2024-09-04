@@ -56,6 +56,7 @@ mtk_iommu.ko
 iommu_test.ko
 mtk_mm_heap.ko
 system_heap.ko
+spi-mt65xx.ko
 mtk-cmdq-drv-ext.ko
 cmdq-platform-mt6833.ko
 cmdq_helper_inf.ko
@@ -63,8 +64,8 @@ mtk-mml-legacy.ko
 mtk_panel_ext.ko
 et5904.ko
 tran_drm_panel_i2c.ko
-nt36672e_fhdp_dsi_vdo_dsc_hx_hx_120Hz_x6711.ko
-nt36672n_fhdp_dsi_vdo_dsc_hx_hx_120Hz_x6711.ko
+ft8726_fhdp_dsi_vdo_tm_tm_lh8n.ko
+ili7807s_fhdp_dsi_vdo_txd_boe_lh8n.ko
 spi_slave.ko
 mediatek-drm.ko
 aee_rs.ko
@@ -101,7 +102,6 @@ mtk-kpd.ko
 i2c-mt65xx.ko
 rtc-mt6397.ko
 clk-chk-mt6833.ko
-spi-mt65xx.ko
 tran_fp.ko
 mt6360-core.ko
 mt6360-regulator.ko
@@ -128,10 +128,8 @@ extcon-mtk-usb.ko
 tcpci_late_sync.ko
 tran_otg.ko
 tran_water_detect.ko
-mtk_pep40.ko
 mtk_pd_charging.ko
 mtk_pep20.ko
-mtk_pep.ko
 rfc_ta.ko
 tran_common_class.ko
 prop_ta_class.ko
@@ -148,6 +146,7 @@ pwm-mtk-disp.ko
 leds-mtk.ko
 leds-mtk-disp.ko
 leds-mtk-pwm.ko
+leds-aw22xxx.ko
 rt4831a_drv.ko
 mt6577_auxadc.ko
 mtk-dvfsrc-helper.ko
