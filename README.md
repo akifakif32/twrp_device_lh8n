@@ -1,2 +1,1 @@
-# twrp_device_lh8n
-Tecno Pova 5 Pro | Recovery tree (WIP)
+Device config for TWRP TECNO POVA 5 Pro ( TECNO-LH8N )
