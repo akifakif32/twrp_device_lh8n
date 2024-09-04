@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/tecno/TECNO-LH8n
+DEVICE_PATH := device/tecno/LH8n
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -38,7 +38,7 @@ TARGET_2ND_CPU_VARIANT := generic
 TARGET_2ND_CPU_VARIANT_RUNTIME := cortex-a55
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := TECNO-LH8n
+TARGET_OTA_ASSERT_DEVICE := LH8n
 
 # Board - type/size ?
 BOARD_HAS_LARGE_FILESYSTEM := true
