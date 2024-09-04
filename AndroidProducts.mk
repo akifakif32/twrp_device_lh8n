@@ -13,4 +13,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     twrp_LH8n-user \
     twrp_LH8n-userdebug \
-    twrp_L8Hn-eng
+    twrp_LH8n-eng
